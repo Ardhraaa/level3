@@ -1,0 +1,113 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    padding: 20px;
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.3-ipUk6nmXVa0k-mYaeBZwHaEK&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.text {
+    color: #c8af92;
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+
+.lname{
+    font-size: 20px;
+
+}
+
+.lemail{
+    font-size: 20px;
+}
+.l
+  
+h1{
+    font-size: 2rem;
+    color: #bead83;
+}
+  
+p{
+    font-size: 20px;
+    color: #c8af92;
+}
+  
+form{
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: none;
+    border-radius: 20px;
+    font-size: 20px;
+    color: #d52974;
+    
+}
+  
+  
+input{
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease;
+}
+  
+input:focus{
+    outline: none;
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.2);
+}
+  
+.button{
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #892b3b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+.button:hover{
+    background-color: #242626;
+    color: #892b3b;
+
+}
+  
+  /* Specific input styles */
+.name{
+    background-color: #c0c0a6;
+    width: 500px;
+}
+  
+.email{
+    background-color: #c0c0a6;
+    width: 500px;
+}
+  
+.pass{
+    background-color: #c0c0a6;
+    width: 500px;
+}
+  
+.phone{
+    background-color: #c0c0a6;
+    width: 500px;
+}
+  
+.age{
+    background-color: #c0c0a6;
+    width: 500px;
+}
+
+.confPass{
+    background-color: #c0c0a6;
+    width: 500px;
+}
